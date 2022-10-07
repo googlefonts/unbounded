@@ -4,7 +4,7 @@
 DisplayStrings = (
 "/two.end",
 "①",
-"❷"
+a
 );
 axes = (
 {
@@ -654,7 +654,7 @@ value = 1262;
 },
 {
 name = winDescent;
-value = 263;
+value = 286;
 },
 {
 name = "Axis Location";
@@ -915,7 +915,7 @@ value = 1262;
 },
 {
 name = winDescent;
-value = 263;
+value = 286;
 }
 );
 guides = (
@@ -1018,7 +1018,7 @@ value = 1262;
 },
 {
 name = winDescent;
-value = 263;
+value = 286;
 }
 );
 guides = (

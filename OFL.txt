@@ -1,4 +1,4 @@
-Copyright (c) 2022, Web 3.0 Technologies Foundation (https://web3.foundation/).
+Copyright 2022 The Unbounded Project Authors (https://github.com/w3f/unbounded)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

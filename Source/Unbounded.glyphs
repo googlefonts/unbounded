@@ -1,11 +1,6 @@
 {
-.appVersion = "3139";
+.appVersion = "3141";
 .formatVersion = 3;
-DisplayStrings = (
-"/two.end",
-"①",
-a
-);
 axes = (
 {
 name = Weight;
@@ -162909,6 +162904,17 @@ weightClass = 500;
 },
 {
 axesValues = (
+625
+);
+instanceInterpolations = {
+"78844910-45F2-4BCF-9A61-7585832DDE30" = 0.45;
+"E29665B4-7994-459A-9DF7-986ADB216CAB" = 0.55;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
 700
 );
 customParameters = (
@@ -163250,6 +163256,17 @@ isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = 700;
+},
+{
+axesValues = (
+800
+);
+instanceInterpolations = {
+"78844910-45F2-4BCF-9A61-7585832DDE30" = 0.8;
+"E29665B4-7994-459A-9DF7-986ADB216CAB" = 0.2;
+};
+name = ExtraBold;
+weightClass = 800;
 },
 {
 axesValues = (

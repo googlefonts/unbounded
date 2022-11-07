@@ -196985,7 +196985,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022 The Unbounded Project Authors (https://github.com/w3f/unbounded)";
+value = "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)";
 }
 );
 },

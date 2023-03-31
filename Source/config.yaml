@@ -1,4 +1,4 @@
-buildStatic: false
+buildStatic: true
 buildVariable: true
 buildTTF: true
 buildOTF: false
